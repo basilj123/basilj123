@@ -45,11 +45,11 @@
 ### 📊 GitHub Stats
 
 <p>
-  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=basilj123&layout=compact&theme=default&cache_seconds=0" height="200px"/>
+  <img align="left" src="https://github-readme-stats-basilj.vercel.app/api/top-langs/?username=basilj123&layout=compact&theme=default&cache_seconds=0" height="200px"/>
 </p>
 
 <p>
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=basilj123&show_icons=true&theme=default&cache_seconds=0" height="200px"/>
+  <img align="center" src="https://github-readme-stats-basilj.vercel.app/api?username=basilj123&show_icons=true&theme=default&cache_seconds=0" height="200px"/>
 </p>
 
 <p>
